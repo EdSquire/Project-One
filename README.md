@@ -1,3 +1,5 @@
-# Projects 1
-Python
+Career Foundry: Data Analytics Program - Python Exercise & Insights
+Project: Instacart Grocery Basket Analysis
+
+
 
